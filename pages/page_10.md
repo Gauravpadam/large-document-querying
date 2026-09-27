@@ -1,0 +1,6 @@
+##### **LIST OF ABBREVIATIONS** 
+
+AED: Automated External Defibrillator AHA: American Heart Association APACHE: Acute Physiology and Chronic Health Evaluation APTT: Activated Partial Thromboplastin Time BERA: Brainstem Evoked Response Audiometry BPS: Bio Physical Profile Scoring CIN: Cervical Intraepithelial Neoplasia CRP: C - reactive protein CRT: Corneal Refractive Therapy CT-IVP: Computed Tomography Intravenous Pyelogram DMPA: Depot Medroxy Progesterone Acetate DMSA: Dimercapto Succinic Acid ELISA: Enzyme-Linked Immunosorbent Assay FDP: Fibrin Degradation Product FML: Flurometholone Ophthalmic Suspension FTA-ABS: Fluorescent Treponemal Antibody-Absorption HPV: Human Papilloma Virus LNG IUCD:Levonornestrel Intra Uterine Contraceptive Device LR SHUNT: Left to Right Shunt LSD:Lysergic Acid Diethylamine MHA-TP: Microhemagglutination Assay Treponema Pallidum NCHS:National Center For Health Statistics NET-EN: Norethisterone Enanthate NLEP:National Leprosy Eradication Programme NPSP: National Polio Surveillance Project NST: Non Stress Test PAIR: Puncture, Aspiration, Injection (Of A Scolicidal Agent), Reaspiration PC: Product Code PDA: Patent Ductus Arteriosus PEA: Pulseless Electrical Activity PET: Positron Emission Tomography PWB: Patient Wise Box 
+
+x 
+
